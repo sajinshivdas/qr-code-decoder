@@ -56,7 +56,7 @@ if qr_image:
 #----------------------------------------------------------------------------------------------------------------------------
 # Links
 st.write('')
-st.markdown(f"<p style='text-align: center; color: black;'>To check out other tools and utilities, visit this <a href='https://sajinshivdas.com/cybersecurity/infosec-tools-and-utilities/'> Tools and Utilities.</a></p>.", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; color: black;'>To generate a QR Code from a link or any text, visit this <a href='https://sajinshivdas-qr-code-generator-qr-generator-65sv9y.streamlitapp.com/'>QR Code Generator.</a></p>.", unsafe_allow_html=True)
 #---------------------------------------------------------------------------------------------------------------------------
 
 
@@ -130,7 +130,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Made in Streamlit by <a href='https://sajinshivdas.com/cybersecurity/'>Sajin Shivdas</a>.
+<p>Made in Streamlit by <a href='https://sajinshivdas.com/cybersecurity/infosec-tools-and-utilities/'>Sajin Shivdas</a>.
 
 </p>
 </div>
